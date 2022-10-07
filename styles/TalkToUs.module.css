@@ -1,0 +1,36 @@
+.container {
+  padding: 40px 20px;
+  background-color: #1a1a1a;
+}
+
+.heading {
+  color: #fff;
+  font-size: 30px;
+  line-height: 50px;
+}
+
+.underline {
+  position: relative;
+}
+
+.underline::before {
+  position: absolute;
+  content: url("../public/small-underline.svg");
+  top: 10px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.text {
+  color: #aaaeb2;
+  font-size: 20px;
+  padding-right: 30px;
+  line-height: 30px;
+}
+
+@media screen and (min-width: 1000px) {
+  .halfGridWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

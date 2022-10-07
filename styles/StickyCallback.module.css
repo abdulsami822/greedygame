@@ -1,0 +1,43 @@
+.container {
+  background: #fff;
+  padding: 10px 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: sticky;
+  bottom: 0;
+  z-index: 999;
+}
+
+@media screen and (min-width: 1000px) {
+  .container {
+    display: none;
+  }
+}
+
+.text {
+  font-weight: 600;
+}
+
+.button {
+  color: #fff;
+  background-color: var(--accent-color);
+
+  font-weight: 700;
+  font-size: 15px;
+
+  width: 150px;
+  height: 40px;
+  margin-left: 30px;
+
+  border: none;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-decoration: none;
+}

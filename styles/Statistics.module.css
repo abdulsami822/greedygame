@@ -1,0 +1,33 @@
+.halfGridWrapper {
+  background: url("../public/statistics-bg.png");
+  background-size: cover;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+
+  padding: 40px 20px;
+}
+
+.item {
+  color: #fff;
+  text-align: center;
+}
+
+.heading {
+  font-size: 40px;
+  margin: 0;
+}
+
+.text {
+  font-size: 15px;
+}
+
+@media screen and (min-width: 1000px) {
+  .halfGridWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,16 @@
+.footer {
+  background-color: #f7f9fc;
+
+  text-align: center;
+  font-size: 17px;
+  font-weight: 600;
+
+  padding: 15px 0px;
+}
+
+@media screen and (min-width: 1000px) {
+  .halfGridWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

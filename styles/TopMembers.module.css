@@ -1,0 +1,33 @@
+.container {
+  padding: 20px var(--padding-sides);
+}
+
+.clientContainer {
+  background-color: #f7f9fc;
+}
+
+.heading {
+  color: var(--text-normal);
+  font-size: 30px;
+  margin-bottom: 60px;
+}
+
+.logosContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.logo {
+  min-height: 50px !important;
+  max-height: 50px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+}
+
+@media screen and (min-width: 1000px) {
+  .halfGridWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,41 @@
+.container {
+  padding: 40px var(--padding-sides);
+}
+
+.mainHeading {
+  color: var(--text-normal);
+  font-size: 30px;
+  word-wrap: break-word;
+}
+
+.testimonialCard {
+  padding: 30px;
+  box-shadow: 0px 3px 30px #41414115;
+}
+
+.title {
+  color: var(--text-normal);
+  font-size: 22px;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.body {
+  color: var(--text-lighter);
+  margin-top: 8px;
+  margin-bottom: 25px;
+  line-height: 25px;
+}
+
+.link {
+  color: var(--accent-color);
+  font-weight: 600;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 1000px) {
+  .halfGridWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

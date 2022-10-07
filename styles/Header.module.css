@@ -1,0 +1,39 @@
+.header {
+  background-color: #fff;
+
+  padding: 20px;
+  max-height: 80px;
+
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 35px;
+  width: 120px;
+}
+
+.icon {
+  height: 35px;
+  width: 38px;
+  margin-right: 10px;
+
+  cursor: pointer;
+}
+
+@media screen and (min-width: 1000px) {
+  .icon {
+    display: none;
+  }
+  .header {
+    padding-left: 40px;
+  }
+  .logo {
+    height: 40px;
+    width: 150px;
+  }
+}

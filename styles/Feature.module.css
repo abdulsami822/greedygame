@@ -1,0 +1,26 @@
+.heading {
+  font-size: 30px;
+  color: var(--text-normal);
+  font-weight: 500;
+  margin: 0;
+}
+
+.underline {
+  font-weight: 800;
+  position: relative;
+}
+
+.underline::before {
+  content: url("../public/large-underline.svg");
+  position: absolute;
+  top: 15px;
+}
+
+@media screen and (min-width: 1000px) {
+  .featuresContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
