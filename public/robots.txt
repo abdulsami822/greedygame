@@ -1,2 +1,2 @@
 User-agent: *
-DisAllow: /ads.txt
+Allow: /ads.txt
