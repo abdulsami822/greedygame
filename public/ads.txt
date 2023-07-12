@@ -58,6 +58,4 @@ rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
 pubnative.net, 1007284, RESELLER, d641df8625486a7bdisplay
 greedygame.com,59581015428,DIRECT
 admanmedia.com,746,RESELLER
-pubnative.net,1007286,RESELLER,d641df8625486a7bvideo
-pubmatic.com,160648,RESELLER,5d62403b186f2ace
-pubnative.net,1007285,RESELLER,d641df8625486a7bnative
+
