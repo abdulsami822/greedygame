@@ -1,4 +1,6 @@
-#Premium Programmatic Demand by publisher@greedygame.com
+const adstxt=()=>{
+
+return `#Premium Programmatic Demand by publisher@greedygame.com
 greedygame.com, 595322678838637, DIRECT
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
@@ -58,4 +60,8 @@ admanmedia.com, 746, RESELLER
 pubmatic.com, 160648, RESELLER, 5d62403b186f2ace
 indexexchange.com, 194520, RESELLER, 50b1c356f2c5c8fc
 onetag.com, 664e107d9f2b748, RESELLER
-conversantmedia.com, 100270, RESELLER, 03113cd04947736d
+conversantmedia.com, 100270, RESELLER, 03113cd04947736d`
+
+}
+
+export default adstxt;
