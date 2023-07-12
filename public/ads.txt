@@ -1,5 +1,4 @@
 #Premium Programmatic Demand by publisher@greedygame.com
-greedygame.com, 596322687192135, DIRECT
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
 pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
@@ -7,7 +6,6 @@ rubiconproject.com, 24244, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24242, RESELLER, 0bfd66d529a55807
 yieldmo.com, 2888573976961819396, RESELLER
 Media.net, 8CU64BY19, RESELLER
-#Premium Programmatic Demand by publisher@greedygame.com
 indexexchange.com,194520,RESELLER,50b1c356f2c5c8fc
 onetag.com,664e107d9f2b748,RESELLER
 conversantmedia.com,100270,RESELLER,03113cd04947736d
