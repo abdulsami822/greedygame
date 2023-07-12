@@ -1,4 +1,4 @@
-#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com, 596222848792597, DIRECT
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
 pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
@@ -6,9 +6,6 @@ rubiconproject.com, 24244, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24242, RESELLER, 0bfd66d529a55807
 yieldmo.com, 2888573976961819396, RESELLER
 Media.net, 8CU64BY19, RESELLER
-indexexchange.com,194520,RESELLER,50b1c356f2c5c8fc
-onetag.com,664e107d9f2b748,RESELLER
-conversantmedia.com,100270,RESELLER,03113cd04947736d
 adcolony.com, 35c95674451fce1c, RESELLER, 1ad675c9de6b5176
 engagebdr.com, 10515, RESELLER
 smaato.com, 1100050581, RESELLER, 07bcf65f187117b4
@@ -54,6 +51,10 @@ rhythmone.com, 3463482822,RESELLER,a670c89d4a324e47
 video.unrulymedia.com, 3463482822, RESELLER
 rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
 pubnative.net, 1007284, RESELLER, d641df8625486a7bdisplay
-greedygame.com,59581015428,DIRECT
-admanmedia.com,746,RESELLER
-
+pubnative.net, 1007285, RESELLER, d641df8625486a7bnative
+pubnative.net, 1007286, RESELLER, d641df8625486a7bvideo
+admanmedia.com, 746, RESELLER
+pubmatic.com, 160648, RESELLER, 5d62403b186f2ace
+indexexchange.com, 194520, RESELLER, 50b1c356f2c5c8fc
+onetag.com, 664e107d9f2b748, RESELLER
+conversantmedia.com, 100270, RESELLER, 03113cd04947736d
