@@ -56,7 +56,4 @@ rhythmone.com, 3463482822,RESELLER,a670c89d4a324e47
 video.unrulymedia.com, 3463482822, RESELLER
 rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807
 pubnative.net, 1007284, RESELLER, d641df8625486a7bdisplay
-pubnative.net, 1007285, RESELLER, d641df8625486a7bnative
-pubnative.net, 1007286, RESELLER, d641df8625486a7bvideo
-admanmedia.com, 746, RESELLER
-pubmatic.com, 160648, RESELLER, 5d62403b186f2ace
+
