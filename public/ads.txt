@@ -58,7 +58,3 @@ contextweb.com,561118,RESELLER,89ff185a4c4e857c
 video.unrulymedia.com,3463482822,RESELLER
 pubnative.net,1007285,RESELLER,d641df8625486a7bnative
 rubiconproject.com,17070,RESELLER,0bfd66d529a55807
-pubnative.net,1007284,RESELLER,d641df8625486a7bdisplay
-admanmedia.com,746,RESELLER
-greedygame.com,596036504930,DIRECT
-greedygame.com,596422703045077,DIRECT
