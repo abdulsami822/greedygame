@@ -59,5 +59,3 @@ pubnative.net,1007285,RESELLER,d641df8625486a7bnative
 admanmedia.com,746,RESELLER
 onetag.com,664e107d9f2b748,RESELLER
 greedygame.com,596422703045077,DIRECT
-pubnative.net,1007284,RESELLER,d641df8625486a7bdisplay
-admanmedia.com,746,RESELLER
