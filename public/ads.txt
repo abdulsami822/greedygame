@@ -54,3 +54,6 @@ onetag.com,664e107d9f2b748,RESELLER
 engagebdr.com,10515,RESELLER
 contextweb.com,558622,RESELLER,89ff185a4c4e857c
 pubmatic.com,156177,RESELLER,5d62403b186f2ace
+blis.com,86,RESELLER,61453ae19a4b73f4
+pubnative.net,1007194,RESELLER,d641df8625486a7b
+pubnative.net,1007286,RESELLER,d641df8625486a7bvideo
