@@ -50,3 +50,10 @@ video.unrulymedia.com,3463482822,RESELLER
 indexexchange.com,194520,RESELLER,50b1c356f2c5c8fc
 contextweb.com,561118,RESELLER,89ff185a4c4e857c
 rhythmone.com,3463482822,RESELLER,a670c89d4a324e47
+onetag.com,664e107d9f2b748,RESELLER
+pubnative.net,1007194,RESELLER,d641df8625486a7b
+pubnative.net,1007286,RESELLER,d641df8625486a7bvideo
+contextweb.com,558622,RESELLER,89ff185a4c4e857c
+blis.com,86,RESELLER,61453ae19a4b73f4
+pubmatic.com,156177,RESELLER,5d62403b186f2ace
+engagebdr.com,10515,RESELLER
