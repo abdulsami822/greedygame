@@ -59,3 +59,4 @@ indexexchange.com, 194520, RESELLER, 50b1c356f2c5c8fc
 onetag.com, 664e107d9f2b748, RESELLER
 conversantmedia.com, 100270, RESELLER, 03113cd04947736d
 greedygame.com,595322678838637,DIRECT
+greedygame.com,596522694280837,DIRECT
